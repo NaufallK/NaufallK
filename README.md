@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Kkkk</h1>
-<h3 align="center">Nantinya bkl diisi banyak lah segera wkwk</h3>
+<h3 align="center">AI enjinir</h3>
 
 - 🌱 I’m currently learning **Ai Engine**
 
